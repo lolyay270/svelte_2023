@@ -1,14 +1,10 @@
-<style>
-    nav:a 
-    {
-        padding: 3px;
-    }
-</style>
+<script>
+    import Header from "$lib/Header.svelte";
+    import Footer from "$lib/Footer.svelte";
+</script>
 
-<nav>
-	<a href="/">home</a>
-	<a href="/other">other</a>
-</nav>
+<Header />
 
 <slot />
 
+<Footer />
