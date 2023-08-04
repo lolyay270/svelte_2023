@@ -1,0 +1,24 @@
+h1 {
+    color: purple;
+    font-family: 'Kalam', cursive;
+}
+
+header {
+    background-color: #7eb3cf;
+}
+
+body {
+    background-color: #c8d6e6;
+}
+
+footer {
+    background-color: #4a7891;
+    padding: 10px;
+}
+
+img {
+    border-radius: 5% 5% 5% 21%;
+    border: 5px double blue;
+
+}
+
