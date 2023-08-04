@@ -1,1 +1,3 @@
-<h4>this is foot, made by Jenna</h4>
+<footer>
+    <h4>this is foot, made by Me</h4>
+</footer>
