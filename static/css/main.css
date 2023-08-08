@@ -22,3 +22,31 @@ img {
 
 }
 
+
+
+
+.main {
+    font-family: arial;
+    background-color: #146798;
+}
+
+.main h1 {
+    font-family: arial;
+    color: white;
+    text-transform: uppercase;
+}
+
+.main p {
+    background-color: hotpink;
+    text-align: center;
+}
+
+.main ul {
+    list-style: upper-latin;
+}
+
+.main .footer {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 32px; 
+}
