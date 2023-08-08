@@ -4,7 +4,19 @@ h1 {
 }
 
 header {
-    background-color: #7eb3cf;
+    background: rgb(24,24,88);
+    background: linear-gradient(45deg, rgba(24,24,88,1) 0%, rgba(94,193,219,1) 100%);
+}
+
+nav a {
+ color: white;
+ padding: 20px;
+ text-transform: uppercase;
+ text-decoration: none;
+}
+
+nav a:hover {
+    background-color: black;
 }
 
 body {
