@@ -6,6 +6,13 @@ h1 {
 header {
     background: rgb(24,24,88);
     background: linear-gradient(45deg, rgba(24,24,88,1) 0%, rgba(94,193,219,1) 100%);
+    display: flex;
+    align-items: center;
+    padding-right: 30px;
+}
+
+nav {
+    margin-right: auto;
 }
 
 nav a {
@@ -20,7 +27,12 @@ nav a:hover {
 }
 
 body {
-    background-color: #c8d6e6;
+    background-image: url("../img/background_daniel-sinoca-AANCLsb0sU0-unsplash.jpg");
+    background-color: #012837;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    margin: 0;
 }
 
 footer {
