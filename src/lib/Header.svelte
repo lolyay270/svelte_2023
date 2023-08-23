@@ -4,5 +4,5 @@
 
 <header>
     <Nav />
-    <h1>Fishie Facts</h1>
+    <h1 class="logo">Fishie Facts</h1>
 </header>
