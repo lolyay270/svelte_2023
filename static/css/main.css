@@ -36,8 +36,12 @@ body {
 }
 
 footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     background-color: #4a7891;
     padding: 10px;
+    text-align: center;
 }
 
 img {
