@@ -14,6 +14,5 @@
 <div class="contents">
     <slot />
 </div>
-<img src="img/mega.jpg" alt="megamind meme" />
 
 <Footer />
