@@ -34,7 +34,7 @@ body {
     background-color: #012837;
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: center;
     margin: 0;
 }
 
@@ -56,6 +56,6 @@ footer {
 }
 
 .home_blocks div {
-    background: rgba(94, 194, 219, 0.5)
+    background: rgba(94, 194, 219, 0.25)
 }
 
