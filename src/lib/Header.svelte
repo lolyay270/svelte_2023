@@ -4,8 +4,10 @@
 
 <header>
     <Nav />
-    <i class="fa-solid fa-fish-fins"></i>
-    <i class="fa-solid fa-fish-fins"></i>
-    <i class="fa-solid fa-fish-fins"></i>
+    <div class="fishes">
+        <i class="fa-solid fa-fish-fins"></i>
+        <i class="fa-solid fa-fish-fins"></i>
+        <i class="fa-solid fa-fish-fins"></i>
+    </div>
     <h1 class="logo">Fishie Facts</h1>
 </header>
