@@ -1,3 +1,8 @@
+:root{
+    --primary_colour: #012837;
+    --secondary_colour: #4a7891;
+}
+
 h1 {
     color: purple;
     font-family: 'Kalam', cursive;
@@ -40,7 +45,7 @@ nav a:hover {
 
 body {
     background-image: url("../img/background.jpg");
-    background-color: #012837;
+    background-color: var(--primary_colour);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -51,7 +56,7 @@ footer {
     position: fixed;
     bottom: 0;
     width: 100%;
-    background-color: #4a7891;
+    background-color: var(--secondary_colour);
     padding: 10px;
     text-align: center;
 }
@@ -64,7 +69,20 @@ footer {
     gap: 30px 10px;
 }
 
-.home_blocks div {
-    background: rgba(94, 194, 219, 0.25)
+.home_blocks > div {
+    background: rgba(94, 194, 219, 0.25);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img_blocks {
+    background-image: url("../img/discus2.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
