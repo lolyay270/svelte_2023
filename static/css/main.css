@@ -62,11 +62,11 @@ footer {
 }
 
 .home_blocks {
-    padding: 10px;
+    padding: 0px 150px;
     display: grid;
     grid-template-columns: 1fr 1fr;
-    height: 500px;
-    gap: 30px 10px;
+    height: 700px;
+    gap: 30px 150px;
 }
 
 .home_blocks > div {
