@@ -2,7 +2,7 @@
     import Nav from "$lib/Nav.svelte";
     import { onMount } from "svelte";
 
-    let isSticky = false;
+    let isSticky = true;
     onMount(() => {
         document.addEventListener("wheel", (event) => {            
             isSticky = event.deltaY < 0;                     
