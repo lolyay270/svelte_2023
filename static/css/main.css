@@ -52,12 +52,13 @@ body {
 }
 
 footer {
-    position: fixed;
+    position: relative;
     bottom: 0;
     width: 100%;
     background-color: var(--secondary_colour);
     padding: 10px;
     text-align: center;
+    margin-top: 80px;
 }
 
 .home_blocks {
