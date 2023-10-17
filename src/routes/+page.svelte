@@ -4,21 +4,12 @@
 
     let cats = [];
 
-    const base_url = `https://api.thecatapi.com/v1`
+    const BASE_URL = `https://api.thecatapi.com/v1`
     const api_key = `live_yBWH0otnDLXMNNVIjdb7j6vV0F5tMFOUcbbOJ4mNDcKWnOdscPe99331duAJQ4kL`
 
-    onMount(() => {
-        fetch(`${base_url}/images/search?limit=4&breed_ids=beng,birm,bomb,drex,mcoo,norw,rblu,tang&api_key=${api_key}`)
-        .then((response) => response.json())
-        .then((data) => {
-            data.forEach(cat => { 
-                cats.push(cat)
-                console.log(cat)
-            })
-        })
-        .catch(function(error) {
-            console.log(error);
-        });
+    onMount(async () => { 
+        let res = await fetch(`${BASE_URL}/images/search?limit=4&breed_ids=beng,birm,bomb,drex,mcoo,norw,rblu,tang&api_key=${api_key}`); 
+    	cats = await res.json(); 
         console.log(cats)
     })
 
