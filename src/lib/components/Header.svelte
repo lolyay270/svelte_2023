@@ -14,9 +14,9 @@
 <header class={isSticky ? 'sticky' : 'notSticky'}>
     <Nav />
     <div class="fishes">
-        <i class="fa-solid fa-fish-fins"></i>
-        <i class="fa-solid fa-fish-fins"></i>
-        <i class="fa-solid fa-fish-fins"></i>
+        <i class="fa-solid fa-cat"></i>
+        <i class="fa-solid fa-cat"></i>
+        <i class="fa-solid fa-cat"></i>
     </div>
     <h1 class="logo">Fishie Facts</h1>
 </header>
