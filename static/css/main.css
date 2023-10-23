@@ -1,16 +1,23 @@
 :root{
-    --primary_colour: #012837;
-    --secondary_colour: #4a7891;
+    --primary_colour: rgb(1, 40, 55);
+    --secondary_colour: rgb(74, 120, 145);
+    --cat_icon_colour: rgb(255, 165, 0);
+    --logo_colour: rgb(121, 78, 0);
+    --header_primary_colour: rgb(24,24,88);
+    --header_secondary_colour:  rgb(94,193,219);
+    --gradient_colour: linear-gradient(45deg, var(--header_primary_colour) 0%, var(--header_secondary_colour) 100%);
+    --nav_hover: black;
+    --nav_text_colour: white;
 }
 
 h1 {
-    color: purple;
+    color: var(--logo_colour);
     font-family: 'Kalam', cursive;
 }
 
 header {
-    background: rgb(24,24,88);
-    background: linear-gradient(45deg, rgba(24,24,88,1) 0%, rgba(94,193,219,1) 100%);
+    background: var(--header_primary_colour);
+    background: var(--gradient_colour);
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     align-items: center;
@@ -34,14 +41,14 @@ header {
 }
 
 nav a {
- color: white;
+ color: var(--nav_text_colour);
  padding: 20px;
  text-transform: uppercase;
  text-decoration: none;
 }
 
 nav a:hover {
-    background-color: black;
+    background-color: var(--nav_hover);
 }
 .fishes {
     display: flex;
@@ -49,7 +56,7 @@ nav a:hover {
     gap: 30px;
 }
 .fa-fish-fins{
-    color: #b47215;
+    color: var(--cat_icon_colour);
     font-size: 30px;
     align-self: center;
 }
@@ -59,7 +66,7 @@ body {
     background-color: var(--primary_colour);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: top;
     margin: 100px 0 0 0;
     font-family: 'Urbanist', sans-serif;
 }
@@ -83,7 +90,7 @@ footer {
 }
 
 .home_blocks > div {
-    background: rgba(94, 194, 219, 0.25);
+    background: var(--secondary_colour);
     display: flex;
     flex-direction: column;
     justify-content: space-between;
