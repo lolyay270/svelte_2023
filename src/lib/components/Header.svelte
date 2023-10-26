@@ -18,5 +18,5 @@
         <i class="fa-solid fa-cat"></i>
         <i class="fa-solid fa-cat"></i>
     </div>
-    <h1 class="logo">Fishie Facts</h1>
+    <h1 class="logo">Kitties</h1>
 </header>
