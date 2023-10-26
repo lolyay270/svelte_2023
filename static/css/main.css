@@ -50,7 +50,7 @@ nav a {
 nav a:hover {
     background-color: var(--nav_hover);
 }
-.fishes {
+.font-icons {
     display: flex;
     justify-content: center;
     gap: 30px;

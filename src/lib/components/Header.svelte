@@ -13,7 +13,7 @@
 
 <header class={isSticky ? 'sticky' : 'notSticky'}>
     <Nav />
-    <div class="fishes">
+    <div class="font-icons">
         <i class="fa-solid fa-cat"></i>
         <i class="fa-solid fa-cat"></i>
         <i class="fa-solid fa-cat"></i>
