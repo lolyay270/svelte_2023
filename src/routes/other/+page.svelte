@@ -12,13 +12,14 @@
 
     //onmount for looping thru each id i want, then filling an array of objects with the url and id 
     onMount(async () => { 
-        CAT_IDS.forEach(id, i => {
+        CAT_IDS.forEach(async id => {
             let res = await fetch(`${BASE_URL}/images/search?limit=5&breed_ids=${id}&api_key=${API_KEY}`); 
             let data = await res.json();
             obj.url = data.url;
             obj.id = id;
             cats.push(obj);
         });
+        console.log(cats)
     })
 </script>
 
