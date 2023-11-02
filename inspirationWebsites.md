@@ -37,6 +37,10 @@ I will incorporate the hovering names to show art images.
   - This adds to the appeal of the typography of the website. I have dived into the code and altered the visuals to see if english is readable [see here](https://github.com/lolyay270/svelte_2023/assets/127159745/f878c297-b38b-4f2f-bd94-7f9a9238e2d8)
 
 ### What specific elements will you incorporate into your own design? How? Where can they be seen in your assignment?
+I will incorporate the infinite scroll in both directions
+- It will show on the second page where the large cat breed names will show.
+- The scroll will loop through all the cat breeds.
+- I will use this [example](https://webdesign.tutsplus.com/how-to-implement-infinite-scrolling-with-javascript--cms-37055t) to help me code this.
 
 # Marking ruberic
 Choose a topic and three example sites from which you want to incorporate elements. 
