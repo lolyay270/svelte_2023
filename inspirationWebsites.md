@@ -1,6 +1,6 @@
 # 3 Example Websites for Element Incorporation
 
-![image](https://github.com/lolyay270/svelte_2023/assets/127159745/bf784c7b-8c4c-47f0-96b7-2ab0072a91fd)
+![image](https://github.com/lolyay270/svelte_2023/assets/127159745/79b7a9de-0d2d-4975-b1c3-2cff056e4110)
 ## Website 1 - [Coulisse Gallery](https://www.coulisse-gallery.com/artists)
 ### Why did you choose these particular sites?
 - I really like this site because it shows lots of images with small amount of words.
