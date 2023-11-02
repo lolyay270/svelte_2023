@@ -45,7 +45,7 @@ I will incorporate the infinite scroll in both directions
 ![image](https://github.com/lolyay270/svelte_2023/assets/127159745/a68d35bb-e2bf-46da-bb7b-552ac922b55f)
 ## Website 3 - [Magnet Web Design](https://magnet.co/)
 ### Why did you choose this particular site?
-- I found this website on the Awwwards site. I really liked the simplistinc design
+- I found this website on [Awwwards](https://www.awwwards.com/sites/magnet-web-agency). I really liked the simplistic design
 - I was inspired by how much inforation they could get through to the users without cluttering the website. 
 ### What elements appeal to you and why? Reference some principles of modern web design.
 - I really like the use of grids and flex boxes to show lots of information or images (like [here](https://github.com/lolyay270/svelte_2023/assets/127159745/6fdc7623-5ae2-4738-92aa-ebd4a6ddc86a))
