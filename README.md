@@ -1,38 +1,13 @@
-# create-svelte
+# Kitties Website - By Jenna Boyes
+## Description
+I am making a website using [SvelteKit](https://kit.svelte.dev/) to complete my Intro to Web Development assignment for my Bachelor of IT at Otago Polytechnic.
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
+I will be using HTML, CSS, and JavaScript to complete the requirements given to me. 
+## How to use my website
+This website will never be hosted by a server. This means the only way to access it is to clone this repository. 
 
-## Creating a project
+In the terminal where you cloned it, enter the command `npm install` and wait for the terminal to finish installing files.
 
-If you're seeing this, you've probably already done this step. Congrats!
+Then enter the command `npm run dev -- --open` and it should open a browser page with my website showing.
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+If this fails type `u` into the console and it will show you the link that your PC is hosting the website. Mine is `http://localhost:5173/`, but yours is likely different. Just put this into any browser while the terminal shows the website is being hosted.
