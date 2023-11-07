@@ -17,7 +17,3 @@
 </div>
 
 <!-- inspiration:    https://www.coulisse-gallery.com/artists -->
-
-<style>
-
-</style>
