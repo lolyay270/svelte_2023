@@ -110,24 +110,6 @@ footer {
     background-position: center;
 }
 
-/*following is only linking images to backgrounds for use in image gallery*/
-.discus2 {
-    background-image: url(../img/discus2.jpg);
-}
-
-.blue2 {
-    background-image: url(../img/blue2.jpg);
-}
-
-.betta3 {
-    background-image: url(../img/betta3.jpg);
-}
-
-.gold3 {
-    background-image: url(../img/gold3.jpg);
-}
-
-
 /*responsive stuff below here*/
 @media only screen and (max-width: 1300px) {
     .home_blocks {
