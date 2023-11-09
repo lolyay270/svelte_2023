@@ -1,6 +1,6 @@
 # 3 Example Websites for Element Incorporation
 
-![image](https://github.com/lolyay270/svelte_2023/assets/127159745/79b7a9de-0d2d-4975-b1c3-2cff056e4110)
+![CoulisseGal](https://github.com/lolyay270/svelte_2023/blob/master/images/CoulisseGal.png)
 ## Website 1 - [Coulisse Gallery](https://www.coulisse-gallery.com/artists)
 ### Why did you choose these particular sites?
 - I really like this site because it shows lots of images with small amount of words.
@@ -21,7 +21,7 @@ I will incorporate the hovering names to show art images.
 - Within the component the names of cats will replace the artist names, and about 5 images of cats will show in place of the art.
 
   
-![image](https://github.com/lolyay270/svelte_2023/assets/127159745/7803fbee-3933-47d3-ac79-cfd64469a68d)
+![image](https://github.com/lolyay270/svelte_2023/blob/master/images/fluffyHugs.png)
 ## Website 2 - [Fluffy Hugs NFTs](https://nft.fluffyhugs.io/gallery)
 ### Why did you choose this particular site?
 - I am making a cat cafe website, with lots of images.
@@ -34,7 +34,7 @@ I will incorporate the hovering names to show art images.
 - The ability to scroll infinitely in BOTH directions is really interesting. I have seen websites infinitely scroll downwards, but you cannot scroll up when the page loads
   - This adds more usability. I feel the scoll upwards adds more effeciency in finding the NFT you want (without using the filter) and it makes the process more fun. "Usability can be described as (...) safely, effectively, and efficiently while enjoying the experience" [Wikipedia](https://en.wikipedia.org/wiki/Usability)
 - The jiggle animation on the home page words adds life to a page that might be completely still and boring
-  - This adds to the appeal of the typography of the website. I have dived into the code and altered the visuals to see if english is readable [see here](https://github.com/lolyay270/svelte_2023/assets/127159745/f878c297-b38b-4f2f-bd94-7f9a9238e2d8)
+  - This adds to the appeal of the typography of the website. If I knew how to read Japanese, I would find this still very readable and not hard to view.
 ### What specific elements will you incorporate into your own design? How? Where can they be seen in your assignment?
 I will incorporate the infinite scroll in both directions
 - It will show on the second page where the large cat breed names will show.
@@ -42,13 +42,13 @@ I will incorporate the infinite scroll in both directions
 - I will use this [example](https://webdesign.tutsplus.com/how-to-implement-infinite-scrolling-with-javascript--cms-37055t) to help me code this.
 
 
-![image](https://github.com/lolyay270/svelte_2023/assets/127159745/a68d35bb-e2bf-46da-bb7b-552ac922b55f)
+![image](https://github.com/lolyay270/svelte_2023/blob/master/images/magnet.png)
 ## Website 3 - [Magnet Web Design](https://magnet.co/)
 ### Why did you choose this particular site?
 - I found this website on [Awwwards](https://www.awwwards.com/sites/magnet-web-agency). I really liked the simplistic design
 - I was inspired by how much inforation they could get through to the users without cluttering the website. 
 ### What elements appeal to you and why? Reference some principles of modern web design.
-- I really like the use of grids and flex boxes to show lots of information or images (like [here](https://github.com/lolyay270/svelte_2023/assets/127159745/6fdc7623-5ae2-4738-92aa-ebd4a6ddc86a))
+- I really like the use of grids and flex boxes to show lots of information or images (like [here](https://github.com/lolyay270/svelte_2023/blob/master/images/magnetGrid.png))
   - I want to use this effectice use of grids to show images of cats.
   - The website follows very good consistency with grids.
   - The website feels paced well as you scroll and the information is where you would expect it
@@ -59,8 +59,8 @@ I will incorporate the infinite scroll in both directions
 - The website has shortcuts and multiple ways to get to the same place
   - I feel this follows Neilsen's #7 Heuristic, Flexibility and efficiency of use
   - It allows people to get to places they know of faster.
-  - For example, if you scroll down quite a way you will find [Solutions](https://github.com/lolyay270/svelte_2023/assets/127159745/023dfd3d-fc02-4737-9471-fc243c596b84), where you can click on the images shown. But you can also click on the nav button, which is always visible, for the same page.
+  - For example, if you scroll down quite a way you will find [Solutions](https://github.com/lolyay270/svelte_2023/blob/master/images/magnetSolutions.png), where you can click on the images shown. But you can also click on the nav button, which is always visible, for the same page.
 ### What specific elements will you incorporate into your own design? How? Where can they be seen in your assignment?
 I want to incorporate the efficient use of grids.
-- This will be shown on both pages of my website. I will use grids to hold images and cards.
+- This will be shown on both pages of my website. I will use grids and flex boxes to hold images and cards.
 - I want the user to see images that are all similar size, and not have images that offset the location of other images
