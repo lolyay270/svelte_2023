@@ -21,7 +21,7 @@ I currently do not have the JavaScript skills nor the will power to make this wo
 I would also like to allow the users to click on the cats on the homepage and this would link to the correct cat on Other page.
 
 
-## How to use my website
+## How to Use My Website
 This website will never be hosted by a server. This means the only way to access it is to clone this repository. 
 
 In the terminal where you cloned it, enter the command `npm install` and wait for the terminal to finish installing files.
@@ -32,7 +32,6 @@ If this fails type `u` into the console and it will show you the url that your P
 Just copy paste this into any browser while the terminal shows the website is being hosted.
 
 
-## How to Use My Project
 The project is not made for showing much information. It allows people to put pictures of cats to the names of the breeds.
 
 Every time you refresh the home page, the images shown will cycle.
