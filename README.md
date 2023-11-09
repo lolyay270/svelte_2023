@@ -9,7 +9,8 @@ I personally have faced challenges with JavaScript as it is a new language to me
 
 ## Motivations
 The main motivations for this website are the fact I had to make it for an assigment, and my gorgeous and annoying boys, Eskie and Elmo.
-[insert images of cat children here]
+![image of Eskie](https://cdn.discordapp.com/attachments/611056044176703489/1172100591854555198/20230109_153105.jpg?ex=655f16bd&is=654ca1bd&hm=4fb27e8d5c6c72ca307c49d42f246878296dbde78bce0bc22dca56b89923aa08&)
+![image of Elmo](https://cdn.discordapp.com/attachments/611056044176703489/1172100383229886515/20230124_122106.jpg?ex=655f168b&is=654ca18b&hm=5ed47a8a4173fd85ba09dd5afa96e0fe9897695fd24eeec339ad78eb350b4fa0&)
 
 
 ## Future Improvements If I Had The Time
