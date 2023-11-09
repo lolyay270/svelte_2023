@@ -71,7 +71,8 @@ body {
     background-color: var(--primary_colour);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: center;
+    background-attachment: fixed;
     margin: 100px 0 0 0;
     font-family: 'Urbanist', sans-serif;
 }
@@ -118,7 +119,7 @@ footer {
 .catGallery {
     display: flex;
     align-items: center;
-    gap: 10vh;
+    flex-direction: column;
     padding: 5vh 5vw;
 }
 
@@ -137,21 +138,21 @@ footer {
 
 .catGallery .gallery {
     display: none;
-    position: fixed;
-    right: 5vw;
+    height: 0;
+    transition: display 2s linear;
+
 }
 
 .catGallery:hover .gallery {
-    position: absolute;
+    position: relative;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
     align-items: center;
     gap: 1vw;
-    background-color: var(--primary_colour);
-    padding: 1vh 1vh 1vh 25vw;
-    margin-left: 5vw;
     overflow: hidden;
+    padding: 2vh 0;
+    background-color: var(--primary_colour);
+    height: auto;
 }
 
 .gallery img {
