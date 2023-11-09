@@ -35,12 +35,12 @@ Just copy paste this into any browser while the terminal shows the website is be
 The project is not made for showing much information. It allows people to put pictures of cats to the names of the breeds.
 
 Every time you refresh the home page, the images shown will cycle.
-![Screenshot of homepage](https://github.com/lolyay270/svelte_2023/assets/127159745/2de7f5a4-0efe-4b71-86ef-dd748c838c5b)
+![screenshot of home page](https://github.com/lolyay270/svelte_2023/assets/127159745/a910b033-ebd8-46c2-8170-cf1abbd65e07)
 
 If people want to see more of a specific breed then can click on the navigation button with "Other" shown.
 
 This will allow people to hover over the names of the cat breeds and it will show 5 images of that breed.
-![Screenshot of other page](https://github.com/lolyay270/svelte_2023/assets/127159745/5f0fb476-d2f2-4039-948d-a9d984f45db2)
+![screenshot of other page](https://github.com/lolyay270/svelte_2023/assets/127159745/44241457-9a87-4081-bfa4-8f6c530dd350)
 
 
 ## Credits
