@@ -1,3 +1,3 @@
 <footer>
-    <h4>this is foot, made by Me</h4>
+    <h4>Made by Jenna Boyes, Otago Polytechnic, New Zealand</h4>
 </footer>
