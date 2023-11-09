@@ -10,11 +10,6 @@
     --nav_text_colour: white;
 }
 
-/* remove this fucker later DO NOT SUBMIT IT */
-* {
-    /* outline: 2px solid green; */
-}
-
 h1 {
     color: var(--logo_colour);
     font-family: 'Kalam', cursive;
