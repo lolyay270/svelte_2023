@@ -8,9 +8,9 @@ I personally have faced challenges with JavaScript as it is a new language to me
 
 
 ## Motivations
-The main motivations for this website are the fact I had to make it for an assigment, and my gorgeous and annoying boys, Eskie and Elmo.
-![image of Eskie](https://cdn.discordapp.com/attachments/611056044176703489/1172100591854555198/20230109_153105.jpg?ex=655f16bd&is=654ca1bd&hm=4fb27e8d5c6c72ca307c49d42f246878296dbde78bce0bc22dca56b89923aa08&)
-![image of Elmo](https://github.com/lolyay270/svelte_2023/assets/127159745/d1541756-6731-4b1e-93e3-20fb260e9f25)
+The main motivations for this website are show in the [inspiration websites document](https://github.com/lolyay270/svelte_2023/blob/master/inspirationWebsites.md), and also my gorgeous and annoying boys, Eskie and Elmo.
+![image of Eskie](https://github.com/lolyay270/svelte_2023/blob/master/images/eskie.jpg)
+![image of Elmo](https://github.com/lolyay270/svelte_2023/blob/master/images/elmo.jpg)
 
 
 ## Future Improvements If I Had The Time
@@ -35,12 +35,12 @@ Just copy paste this into any browser while the terminal shows the website is be
 The project is not made for showing much information. It allows people to put pictures of cats to the names of the breeds.
 
 Every time you refresh the home page, the images shown will cycle.
-![screenshot of home page](https://github.com/lolyay270/svelte_2023/assets/127159745/a910b033-ebd8-46c2-8170-cf1abbd65e07)
+![screenshot of home page](https://github.com/lolyay270/svelte_2023/blob/master/images/homepage.png)
 
 If people want to see more of a specific breed then can click on the navigation button with "Other" shown.
 
 This will allow people to hover over the names of the cat breeds and it will show 5 images of that breed.
-![screenshot of other page](https://github.com/lolyay270/svelte_2023/assets/127159745/44241457-9a87-4081-bfa4-8f6c530dd350)
+![screenshot of other page](https://github.com/lolyay270/svelte_2023/blob/master/images/otherpage.png)
 
 
 ## Credits
