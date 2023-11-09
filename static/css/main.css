@@ -1,12 +1,12 @@
 :root{
-    --primary_colour: rgb(1, 40, 55);
-    --secondary_colour: rgb(74, 120, 145);
+    --primary_colour: rgb(90, 50, 10);
+    --secondary_colour: rgba(130, 90, 35, 0.5);
     --cat_icon_colour: rgb(255, 165, 0);
-    --logo_colour: rgb(121, 78, 0);
-    --header_primary_colour: rgb(24,24,88);
-    --header_secondary_colour:  rgb(94,193,219);
+    --logo_colour: black;
+    --header_primary_colour: rgb(95, 64, 35);
+    --header_secondary_colour:  rgb(168, 98, 5);
     --gradient_colour: linear-gradient(45deg, var(--header_primary_colour) 0%, var(--header_secondary_colour) 100%);
-    --nav_hover: black;
+    --nav_hover: var(--primary_colour);
     --nav_text_colour: white;
 }
 
@@ -81,7 +81,8 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
-    background-color: var(--secondary_colour);
+    background: var(--header_primary_colour);
+    background: var(--gradient_colour);
     padding: 10px;
     text-align: center;
     margin-top: 80px;
@@ -93,6 +94,7 @@ footer {
     grid-template-columns: 1fr 1fr;
     height: 700px;
     gap: 30px 150px;
+    font: 600 2rem 'Quicksand', sans-serif;
 }
 
 .home_blocks > div {
