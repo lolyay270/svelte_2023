@@ -14,11 +14,11 @@ The main motivations for this website are show in the [inspiration websites docu
 
 
 ## Future Improvements If I Had The Time
-I would like to make the images on Other page slide out of the breed name, instead of instantly appearing.
+I have faild to make the other page infinitely scoll as I had planned in my [inspiration website doc](https://github.com/lolyay270/svelte_2023/blob/master/inspirationWebsites.md). This is due to my lack of JavaScript skills and this would be something I would work on in the future. 
 
-I currently do not have the JavaScript skills nor the will power to make this work.
+I would like to make the images on Other page slide out of the breed name, instead of instantly appearing. I currently do not have the JavaScript skills nor the will power to make this work.
 
-I would also like to allow the users to click on the cats on the homepage and this would link to the correct cat on Other page.
+I would also like to allow the users to click on the cats on the homepage and this would link to the correct cat on Other page. I do know of how to do this with `<a>` tags and basic html but I am unsure of how to do this within Svelte.
 
 
 ## How to Use My Website
